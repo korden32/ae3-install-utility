@@ -1,3 +1,6 @@
+# ae3-install-utility
+
+Installs AE3 on FreeBSD from a prebuilt tarball (`host/tarball`, `host-freebsd/tarball`).
 
 #To install:
 ```
